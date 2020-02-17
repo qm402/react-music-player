@@ -1,4 +1,4 @@
-<img src="Home.png" alt="" width="300px" />
+<img src="Home.png" alt=""  />
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
