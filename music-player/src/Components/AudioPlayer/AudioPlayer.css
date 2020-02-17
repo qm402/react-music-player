@@ -1,0 +1,16 @@
+.audio-player {
+    width: 100%;
+    background-color: #E4E4E4;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    height: 80px;
+}
+
+.audio-player-control {
+    display: block;
+    margin: 0 auto;
+    min-width: 374px;
+    margin-top: 14px;
+}
